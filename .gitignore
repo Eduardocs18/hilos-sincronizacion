@@ -1,0 +1,17 @@
+# Ejecutables compilados
+experimento
+contador
+contador_mutex
+contador_mutex_tiempo
+prueba_hilos
+
+# Archivos temporales de macOS
+.DS_Store
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
